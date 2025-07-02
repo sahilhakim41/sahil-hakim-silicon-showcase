@@ -176,7 +176,7 @@ const Index = () => {
                 <CircuitBoard className="mr-2 w-5 h-5" />
                 [VIEW_PROJECTS]
               </Button>
-              
+              <a href="/SAHIL_RESUME_2025.pdf" download>
               <Button 
                 variant="outline"
                 className="border-2 border-neon-green text-neon-green hover:bg-neon-green hover:text-black font-bold px-8 py-3 rounded-lg transition-all duration-300 font-code"
@@ -184,6 +184,7 @@ const Index = () => {
                 <Download className="mr-2 w-5 h-5" />
                 [DOWNLOAD_RESUME]
               </Button>
+              </a>
             </div>
           </div>
         </div>
