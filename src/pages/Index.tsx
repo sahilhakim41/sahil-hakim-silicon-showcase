@@ -179,7 +179,7 @@ const Index = () => {
               <a href="/SAHIL_RESUME_2025.pdf" >
               <Button 
                 variant="outline"
-                className="border-2 border-neon-green text-neon-green hover:bg-blue hover:text-black font-bold px-8 py-3 rounded-lg transition-all duration-300 font-code"
+                className="border-2 border-blue text-neon-green hover:bg-neon-green hover:text-black font-bold px-8 py-3 rounded-lg transition-all duration-300 font-code"
               >
                 <Download className="mr-2 w-5 h-5" />
                 [DOWNLOAD_RESUME]
