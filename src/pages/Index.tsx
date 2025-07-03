@@ -176,7 +176,7 @@ const Index = () => {
                 <CircuitBoard className="mr-2 w-5 h-5" />
                 [VIEW_PROJECTS]
               </Button>
-              <a href="/SAHIL_RESUME_2025.pdf" download>
+              <a href="/SAHIL_RESUME_2025.pdf" >
               <Button 
                 variant="outline"
                 className="border-2 border-neon-green text-neon-green hover:bg-neon-green hover:text-black font-bold px-8 py-3 rounded-lg transition-all duration-300 font-code"
@@ -201,8 +201,8 @@ const Index = () => {
           <div className="grid md:grid-cols-2 gap-8">
             <Card className="bg-silicon-800/60 border-neon-green/20 backdrop-blur-sm hover:bg-silicon-800/80 transition-all duration-300 hover:border-neon-green/40 hover:shadow-lg hover:shadow-neon-green/10">
               <CardHeader>
-                <CardTitle className="text-neon-green text-xl font-code">MS_ELECTRICAL_COMPUTER_ENG</CardTitle>
-                <CardDescription className="text-silicon-300 font-code text-sm">2024–2026</CardDescription>
+                <CardTitle className="text-neon-green text-xl font-code">PURDUE UNIVERSITY</CardTitle>
+                <CardDescription className="text-silicon-300 font-code text-sm">MS_ELECTRICAL_COMPUTER_ENG (2024–2026)</CardDescription>
               </CardHeader>
               <CardContent>
                 <p className="text-white mb-2 font-code">Status: IN_PROGRESS</p>
@@ -212,8 +212,8 @@ const Index = () => {
             
             <Card className="bg-silicon-800/60 border-cyan-400/20 backdrop-blur-sm hover:bg-silicon-800/80 transition-all duration-300 hover:border-cyan-400/40 hover:shadow-lg hover:shadow-cyan-400/10">
               <CardHeader>
-                <CardTitle className="text-cyan-400 text-xl font-code">B.TECH_ECE</CardTitle>
-                <CardDescription className="text-silicon-300 font-code text-sm">2020–2024</CardDescription>
+                <CardTitle className="text-cyan-400 text-xl font-code">VELLORE INSTITUTE OF TECHNOLOGY</CardTitle>
+                <CardDescription className="text-silicon-300 font-code text-sm">B.TECH_ECE (2020–2024)</CardDescription>
               </CardHeader>
               <CardContent>
                 <p className="text-white mb-2 font-code">Status: COMPLETED</p>
