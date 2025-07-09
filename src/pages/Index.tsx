@@ -151,7 +151,7 @@ const Index = () => {
             
             <h1 className="text-6xl md:text-8xl font-bold text-white mb-4 font-code tracking-wider">
               <span className="bg-gradient-to-r from-neon-green via-cyan-400 to-blue-400 bg-clip-text text-transparent neon-glow">
-                SAHIL HAKIM
+                SAKINA VICHAVERA
               </span>
             </h1>
             
